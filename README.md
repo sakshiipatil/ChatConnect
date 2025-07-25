@@ -64,7 +64,7 @@ ChatConnect/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Rohitmh09/android-chatconnect-real-time-chat-app.git
+   git clone https://github.com/sakshiipatil/ChatConnect.git
    cd android-chatconnect-real-time-chat-app
    ```
 
