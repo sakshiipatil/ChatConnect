@@ -5,12 +5,6 @@ ChatConnect is a modern **real-time messaging application** built using **Kotlin
 
 ---
 
-## 🚀 Demo Video
-
-📺 https://drive.google.com/file/d/1RZjLtjtDsC-WIYp01byxp0pGVEV9d9c8/view?usp=drive_link
-
----
-
 ## 🌟 Features
 
 ✅ Real-time one-to-one chat
